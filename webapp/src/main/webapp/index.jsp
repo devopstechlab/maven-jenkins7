@@ -4,7 +4,6 @@
     <p>Please fill in this form to create an account.Git poll testing. Webhook testing</p>
     <hr>
 
-
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
